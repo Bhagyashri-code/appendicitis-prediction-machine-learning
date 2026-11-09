@@ -28,4 +28,4 @@ Alvarado_score and Length_of_stay were excluded to address concerns about derive
 - Scaled the data and used seven selected features.
 - Applied L1 regularization to shrink some feature coefficients to zero.
 - Compared performance and interpretability against Random Forest.
-- nterpretation: The reported Random Forest model achieved higher test ROC-AUC. L1 Logistic Regression offers a more directly interpretable coefficient-based model. These metrics come from the presentation; exact reproducibility requires the dataset, code, split settings, and selected hyperparameters.
+- Interpretation: The reported Random Forest model achieved higher test ROC-AUC. L1 Logistic Regression offers a more directly interpretable coefficient-based model. These metrics come from the presentation; exact reproducibility requires the dataset, code, split settings, and selected hyperparameters.
